@@ -89,4 +89,63 @@
     "description": "A melancholic introspective ballad about loneliness and redemption in Los Angeles.",
     "keyWords": ["alternative rock", "90s", "ballad", "red hot chili peppers"]
   },
-  
+  {
+    "id": 4,
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "album": "No Need to Argue",
+    "genre": "Alternative Rock",
+    "releaseYear": 1994,
+    "description": "A powerful protest song about The Troubles in Northern Ireland with unforgettable vocals.",
+    "keyWords": ["protest song", "alternative rock", "90s", "political"]
+  },
+  {
+    "id": 5,
+    "title": "Mr. Brightside",
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "genre": "Alternative Rock",
+    "releaseYear": 2004,
+    "description": "An energetic rock anthem about jealousy and suspicion that became a decade-defining song.",
+    "keyWords": ["alternative rock", "2000s", "jealousy", "anthem"]
+  },
+  {
+    "id": 6,
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "genre": "Garage Rock",
+    "releaseYear": 2003,
+    "description": "A minimalist rock masterpiece with a bass riff played on guitar that became a global sports chant.",
+    "keyWords": ["garage rock", "2000s", "stadium chant", "blues rock", "iconic riff"]
+  },
+  {
+    "id": 7,
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": "Nu Metal",
+    "releaseYear": 2001,
+    "description": "A genre-blending anthem combining rap and rock about futility and frustration.",
+    "keyWords": ["nu metal", "rap rock", "2000s", "angst"]
+  },
+  {
+    "id": 8,
+    "title": "Come As You Are",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "genre": "Grunge",
+    "releaseYear": 1991,
+    "description": "A moody, introspective grunge track with one of rock's most recognizable bass riffs.",
+    "keyWords": ["grunge", "90s", "nirvana", "alternative rock"]
+  },
+  {
+    "id": 9,
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik",
+    "genre": "Alternative Rock",
+    "releaseYear": 1992,
+    "description": "A melancholic introspective ballad about loneliness and redemption in Los Angeles.",
+    "keyWords": ["alternative rock", "90s", "ballad", "red hot chili peppers"]
+  },
