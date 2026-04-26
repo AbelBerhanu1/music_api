@@ -259,3 +259,14 @@
     "description": "An atmospheric, melancholic instrumental piece that captures the eerie loneliness of Silent Hill 2.",
     "keyWords": ["silent hill", "ambient", "2000s", "atmospheric", "instrumental"]
   },
+  {
+    "id": 23,
+    "title": "Mary's Theme",
+    "artist": "Akira Yamaoka",
+    "album": "Silent Hill 2 Soundtrack",
+    "genre": "Ambient / Piano",
+    "releaseYear": 2001,
+    "description": "A sorrowful, beautiful piano piece representing the tragic love story of Mary and James in Silent Hill 2.",
+    "keyWords": ["silent hill", "piano", "2000s", "emotional", "tragic"]
+  }
+]
