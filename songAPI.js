@@ -217,5 +217,6 @@ server.listen(PORT, () => {
     console.log('   http://localhost:3000/');
     console.log('   http://localhost:3000/api/songs');
     console.log('   http://localhost:3000/api/songs/1');
+    console.log('   http://localhost:3000/api/songs/2');
     console.log('\n Press Ctrl+C to stop the server\n');
 });
