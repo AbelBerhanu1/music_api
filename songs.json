@@ -249,3 +249,13 @@
     "description": "A haunting rock track that blends melancholy lyrics with grungy guitar riffs from the Silent Hill 3 soundtrack.",
     "keyWords": ["silent hill", "alternative rock", "2000s", "haunting", "video game"]
   },
+  {
+    "id": 22,
+    "title": "Null Moon",
+    "artist": "Akira Yamaoka",
+    "album": "Silent Hill 2 Soundtrack",
+    "genre": "Trip Hop / Ambient",
+    "releaseYear": 2001,
+    "description": "An atmospheric, melancholic instrumental piece that captures the eerie loneliness of Silent Hill 2.",
+    "keyWords": ["silent hill", "ambient", "2000s", "atmospheric", "instrumental"]
+  },
