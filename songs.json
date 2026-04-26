@@ -159,3 +159,13 @@
     "description": "A short, explosive rock song known for its 'WOO-HOO!' chorus that became a stadium staple.",
     "keyWords": ["britpop", "90s", "blur", "stadium rock", "short"]
   },
+  {
+    "id": 13,
+    "title": "Last Resort",
+    "artist": "Papa Roach",
+    "album": "Infest",
+    "genre": "Nu Metal",
+    "releaseYear": 2000,
+    "description": "A raw nu metal anthem about suicide and desperation that became a massive early 2000s hit.",
+    "keyWords": ["nu metal", "2000s", "angst", "papa roach", "heavy"]
+  },
