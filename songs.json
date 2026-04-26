@@ -209,3 +209,34 @@
     "description": "A beautiful, soaring rock ballad that launched Coldplay to international stardom.",
     "keyWords": ["alternative rock", "2000s", "ballad", "coldplay", "romantic"]
   },
+  {
+    "id": 18,
+    "title": "The Middle",
+    "artist": "Jimmy Eat World",
+    "album": "Bleed American",
+    "genre": "Alternative Rock",
+    "releaseYear": 2001,
+    "description": "An uplifting, energetic rock anthem about self-acceptance and not giving up.",
+    "keyWords": ["alternative rock", "2000s", "uplifting", "emo", "anthem"]
+  },
+  {
+    "id": 19,
+    "title": "Iris",
+    "artist": "Goo Goo Dolls",
+    "album": "Dizzy Up the Girl",
+    "genre": "Alternative Rock",
+    "releaseYear": 1998,
+    "description": "A heartfelt acoustic rock ballad that became one of the most played songs of the 90s.",
+    "keyWords": ["alternative rock", "90s", "ballad", "acoustic", "romantic"]
+  },
+  {
+    "id": 20,
+    "title": "Otherside",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "genre": "Alternative Rock",
+    "releaseYear": 1999,
+    "description": "A melodic rock track about addiction, loss, and the struggle for redemption.",
+    "keyWords": ["alternative rock", "90s", "red hot chili peppers", "addiction", "melodic"]
+  }
+]
