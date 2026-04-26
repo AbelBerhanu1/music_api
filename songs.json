@@ -149,3 +149,13 @@
     "description": "A melancholic introspective ballad about loneliness and redemption in Los Angeles.",
     "keyWords": ["alternative rock", "90s", "ballad", "red hot chili peppers"]
   },
+  {
+    "id": 12,
+    "title": "Song 2",
+    "artist": "Blur",
+    "album": "Blur",
+    "genre": "Britpop",
+    "releaseYear": 1997,
+    "description": "A short, explosive rock song known for its 'WOO-HOO!' chorus that became a stadium staple.",
+    "keyWords": ["britpop", "90s", "blur", "stadium rock", "short"]
+  },
