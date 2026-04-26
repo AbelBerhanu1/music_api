@@ -200,3 +200,22 @@ const server = http.createServer(async (req, res) => {
         sendJSON(res, 404, { error: 'Route not found. Use /api/songs' });
     }
 });
+
+const PORT = 3000;
+server.listen(PORT, () => {
+    console.log(`\n Music API Server running on http://localhost:${PORT}`);
+    console.log('\n Available Endpoints:');
+    console.log('   GET    /api/songs           - Get all songs');
+    console.log('   GET    /api/songs?id=1      - Get song by ID (query param)');
+    console.log('   GET    /api/songs/1         - Get song by ID (path param)');
+    console.log('   POST   /api/songs           - Add new song');
+    console.log('   PUT    /api/songs?id=1      - Update song (query param)');
+    console.log('   PUT    /api/songs/1         - Update song (path param)');
+    console.log('   DELETE /api/songs?id=1      - Delete song (query param)');
+    console.log('   DELETE /api/songs/1         - Delete song (path param)');
+    console.log('\n Try these URLs in your browser:');
+    console.log('   http://localhost:3000/');
+    console.log('   http://localhost:3000/api/songs');
+    console.log('   http://localhost:3000/api/songs/1');
+    console.log('\n Press Ctrl+C to stop the server\n');
+});
