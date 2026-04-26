@@ -169,3 +169,43 @@
     "description": "A raw nu metal anthem about suicide and desperation that became a massive early 2000s hit.",
     "keyWords": ["nu metal", "2000s", "angst", "papa roach", "heavy"]
   },
+  {
+    "id": 14,
+    "title": "Chop Suey!",
+    "artist": "System of a Down",
+    "album": "Toxicity",
+    "genre": "Alternative Metal",
+    "releaseYear": 2001,
+    "description": "A genre-defying metal masterpiece with unpredictable shifts and profound lyrics about death.",
+    "keyWords": ["alternative metal", "2000s", "system of a down", "experimental"]
+  },
+  {
+    "id": 15,
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "genre": "Alternative Rock",
+    "releaseYear": 1999,
+    "description": "A melodic rock anthem critiquing Hollywood culture and the entertainment industry.",
+    "keyWords": ["alternative rock", "90s", "red hot chili peppers", "california"]
+  },
+  {
+    "id": 16,
+    "title": "Kryptonite",
+    "artist": "3 Doors Down",
+    "album": "The Better Life",
+    "genre": "Post-Grunge",
+    "releaseYear": 2000,
+    "description": "A post-grunge hit about unconditional love using Superman as a metaphor.",
+    "keyWords": ["post-grunge", "2000s", "rock", "ballad"]
+  },
+  {
+    "id": 17,
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "album": "Parachutes",
+    "genre": "Alternative Rock",
+    "releaseYear": 2000,
+    "description": "A beautiful, soaring rock ballad that launched Coldplay to international stardom.",
+    "keyWords": ["alternative rock", "2000s", "ballad", "coldplay", "romantic"]
+  },
