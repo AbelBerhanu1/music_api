@@ -242,12 +242,15 @@
   {
     "id": 21,
     "title": "You're Not Here",
-    "artist": "Akira Yamaoka",
+    "artist": "Akira Yamaoka feat. Mary Elizabeth McGlynn",
     "album": "Silent Hill 3 Soundtrack",
     "genre": "Alternative Rock",
     "releaseYear": 2003,
-    "description": "A haunting rock track that blends melancholy lyrics with grungy guitar riffs from the Silent Hill 3 soundtrack.",
-    "keyWords": ["silent hill", "alternative rock", "2000s", "haunting", "video game"]
+    "description": "A haunting rock track that blends melancholy lyrics with grungy guitar riffs from the Silent Hill 3 soundtrack. Serves as the opening theme for Silent Hill 3.",
+    "keyWords": ["silent hill", "alternative rock", "2000s", "haunting", "video game", "mary elizabeth mcglynn"],
+    "songCoverImageLink": "https://images.genius.com/8f5c5c5c5c5c5c5c5c5c5c5c5c5c5c5c.1000x1000x1.jpg",
+    "audioLink": "https://www.youtube.com/watch?v=UkumV_dHbkg",
+    "wikiLink": "https://silenthill.fandom.com/wiki/You%27re_Not_Here"
   },
   {
     "id": 22,
@@ -256,17 +259,21 @@
     "album": "Silent Hill 2 Soundtrack",
     "genre": "Trip Hop / Ambient",
     "releaseYear": 2001,
-    "description": "An atmospheric, melancholic instrumental piece that captures the eerie loneliness of Silent Hill 2.",
-    "keyWords": ["silent hill", "ambient", "2000s", "atmospheric", "instrumental"]
+    "description": "An atmospheric, melancholic instrumental piece that captures the eerie loneliness of Silent Hill 2. Plays during James' first arrival at the lakeview area.",
+    "keyWords": ["silent hill", "ambient", "2000s", "atmospheric", "instrumental", "trip hop"],
+    "songCoverImageLink": "https://images.genius.com/7f4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d.1000x1000x1.jpg",
+    "audioLink": "https://www.youtube.com/watch?v=6zvSvqfiBLk",
+    "wikiLink": "https://silenthill.fandom.com/wiki/Silent_Hill_2_(soundtrack)"
   },
   {
     "id": 23,
     "title": "Mary's Theme",
-    "artist": "Akira Yamaoka",
-    "album": "Silent Hill 2 Soundtrack",
+    "artist": "Stelvio Cipriani",
+    "album": "From the film Femina Ridens",
     "genre": "Ambient / Piano",
     "releaseYear": 2001,
-    "description": "A sorrowful, beautiful piano piece representing the tragic love story of Mary and James in Silent Hill 2.",
-    "keyWords": ["silent hill", "piano", "2000s", "emotional", "tragic"]
+    "description": "A sorrowful, beautiful piano piece representing the tragic love story of Mary and James Sunderland in Silent Hill 2. The melody is central to the game's emotional ending.",
+    "keyWords": ["silent hill", "piano", "2000s", "emotional", "tragic", "mary sunderland"],
+    "audioLink": "https://youtu.be/OGQR3Chf9hE?si=kBQbSRn7JQwqY9Kg"
   }
 ]
