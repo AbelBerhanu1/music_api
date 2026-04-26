@@ -238,5 +238,14 @@
     "releaseYear": 1999,
     "description": "A melodic rock track about addiction, loss, and the struggle for redemption.",
     "keyWords": ["alternative rock", "90s", "red hot chili peppers", "addiction", "melodic"]
-  }
-]
+  },
+  {
+    "id": 21,
+    "title": "You're Not Here",
+    "artist": "Akira Yamaoka",
+    "album": "Silent Hill 3 Soundtrack",
+    "genre": "Alternative Rock",
+    "releaseYear": 2003,
+    "description": "A haunting rock track that blends melancholy lyrics with grungy guitar riffs from the Silent Hill 3 soundtrack.",
+    "keyWords": ["silent hill", "alternative rock", "2000s", "haunting", "video game"]
+  },
